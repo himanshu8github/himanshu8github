@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @himanshu8github
-- 👀 I’m interested in Developing webpages & new-new projects by HTML & CSS.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in Developing webpages & new-new projects by HTML,CSS,Javascript,Node.js,Express.js,Mongodb.
+- 🌱 I’m also doing DSA with Java..
+-  🌱 I’m currently learning Backend.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...contact me at himanshukakran8@gmail.com
 
